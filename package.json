@@ -4,7 +4,7 @@
   "devDependencies": {
     "body-parser": "^1.13.2",
     "express": "^4.13.1",
-    "mathjs": "^1.7.1",
+    "mathjs": "3.17.1",
     "md5": "^2.0.0",
     "pg": "^4.4.0",
 	"q": "^1.4.1",
