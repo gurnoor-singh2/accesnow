@@ -1,5 +1,3 @@
-# Aaccess-Now-Web-Hosting
-
 Install Node first from https://nodejs.org
 Open command propmpt and cd to working directory and Run `npm install`
 
